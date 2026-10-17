@@ -16,6 +16,14 @@ Connect a webcam or IP camera, review live detection signals, and keep incident 
 
 </div>
 
+<div align="center">
+
+![Looping isometric 3D-style NovaGuard monitoring visualization](assets/novaguard-3d-monitor.gif)
+
+*A looping, illustrative 3D-style animation for the README — not a live camera feed or actual model output.*
+
+</div>
+
 NovaGuard combines camera streaming, four AI-assisted detection paths, risk signals, incident evidence, and optional email notifications in a browser-based monitoring experience. It includes a FastAPI service, an operations dashboard, and an animated React landing page.
 
 > **Important:** NovaGuard is a monitoring aid, not a certified safety or emergency-response system. Model results can be incorrect; keep a human in the loop.
